@@ -1,0 +1,18 @@
+{
+  "name": "base64-decoding",
+  "description": "无依赖utf8字符base64编解码模块，可安全用于微信小程序",
+  "main": "dist/base64.js",
+  "authors": [
+    "threescs"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/threescs/base64-decoding",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src",
+    "package.json",
+    "gulpfile.js"
+  ]
+}
